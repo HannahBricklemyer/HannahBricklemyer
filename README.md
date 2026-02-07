@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Cytometry In R - Questions
+
+Location: Boston, Massachussets, USA
+
+My Favorite Fluorophore: BV605
+
+Previous Coding Experience: Asking software engineers for help 
+
+What I Hope to Get From This Course: Develop skills in coding and data analysis
+
 <!--
 **HannahBricklemyer/HannahBricklemyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
